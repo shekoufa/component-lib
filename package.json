@@ -1,6 +1,6 @@
 {
   "name": "component-lib-navid",
-  "version": "0.1.5.1",
+  "version": "0.1.6",
   "description": "an example component library built with React!",
   "main": "build/index.js",
   "scripts": {
