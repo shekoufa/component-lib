@@ -1,5 +1,5 @@
 {
-  "name": "component-lib",
+  "name": "component-lib-navid",
   "version": "0.1.0",
   "description": "an example component library built with React!",
   "main": "build/index.js",
@@ -33,5 +33,8 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "styled-components": "^2.1.2"
+  },
+  "dependencies": {
+    "component-lib": "^0.1.2"
   }
 }
